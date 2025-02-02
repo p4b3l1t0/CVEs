@@ -1,7 +1,7 @@
 # CVEs
 This repository contains security vulnerabilities I have discovered, including details on affected products, impact, PoCs, and mitigation steps, following responsible disclosure practices.
 
-# Security Vulnerabilities Discovered by Pablo Gabriel Salinas  
+# Security Vulnerabilities Discovered by Pablo Salinas  
 
 | CVE ID         | Product    | Version | Type           | Vulnerable File      | Parameter Affected | Impact                                | CVSS Score                                      | Mitigation                                    |
 |---------------|-----------|---------|---------------|----------------------|--------------------|----------------------------------------|------------------------------------------------|-----------------------------------------------|
